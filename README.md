@@ -4,7 +4,6 @@
 
 <h1 align="center">Debug Theme for Breeze Icons</h1>
 
-## Introduction
 The theme makes it easy to quickly find the icons you want to replace.
 KDE follows the latest [Icon Naming Specification](https://specifications.freedesktop.org/icon-naming-spec/latest/) but also adds a bunch of new icons.
 Built upon the KDE 6 Breeze Icon theme, it replaces every single one, making it perfect for debugging and for creating your own icon theme from scratch that is compatible with KDE applications.
