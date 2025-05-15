@@ -20,9 +20,9 @@ Built upon the KDE 6 Breeze Icon theme, it replaces every single one, making it 
 ### Versions
 There are three versions of the same theme, each with its own `icon_scheme.txt` that maps headers to icon paths.
 * **Crisp (recommended):**
-Generates all sizes from 16 to 256 pixels for each icon, ensuring the sharpest appearance.
+All icon sizes from 16 to 256 pixels are generated, ensuring the sharpest appearance.
 * **Symlink:**
-Preserves symlinks, which is particularly useful when creating your own icon theme, as it requires replacing fewer icons. KDE does not provide all sizes of the same icon and refers to one of them if the correct size is not found. The selected icon must be scaled up or down, which can make it harder to read.
+Symlinks are preserved, which is particularly useful when creating your own icon theme, as it requires replacing fewer icons. However, KDE does not provide all sizes of the same icon and refers to one of them if the correct size is not found. The selected icon must be scaled up or down, which can make it harder to read.
 * **Dark-Symlink:**
 Same as Symlink but is built from Breeze Dark icon theme.
 
