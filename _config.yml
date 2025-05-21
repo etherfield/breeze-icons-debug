@@ -1,0 +1,10 @@
+remote_theme: pages-themes/architect@v0.2.0
+
+title: [Breeze Icons Debug]
+show_downloads: [true]
+
+github:
+  release_url: https://github.com/etherfield/breeze-icons-debug/releases/
+
+plugins:
+- jekyll-remote-theme
